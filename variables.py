@@ -1,0 +1,10 @@
+# global variables
+path = './miniproject1.db'
+connection = None
+cursor = None
+tickets = None
+mother = None
+father = None
+user_city = 'Edmonton'
+newborn_user_input = None
+parents = {}
